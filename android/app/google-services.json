@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7665217902",
+    "project_id": "status-saver-wa-app",
+    "storage_bucket": "status-saver-wa-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7665217902:android:35bf28ce086b535efe917f",
+        "android_client_info": {
+          "package_name": "com.kedhar.status_saver_ws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7665217902-817sevknjirfn9ivre169rj5tbm3ursm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB961ZBTwMKSaiK-ufna6KpREcVXRkJg-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7665217902-817sevknjirfn9ivre169rj5tbm3ursm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
